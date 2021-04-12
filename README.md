@@ -1,6 +1,6 @@
 # Data Journalism and D3
 
-### https://alexarnold630.github.io/SMU_Homework/16-D3/Submission/StarterCode/index.html
+### https://alexarnold630.github.io/Data_Journalism/code/index.html
 
 ## Background
 Tasked with analyzing the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers of a major metro paper understand your findings.
