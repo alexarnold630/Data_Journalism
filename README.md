@@ -20,3 +20,6 @@ Tasked with analyzing the current trends shaping people's lives, as well as crea
 Based on the 2014 ACS 1-year estimates from the US Census Bureau
 https://data.census.gov/cedsci/
 
+### Contact
+Alex Arnold: alexnarnold630@gmail.com <br>
+
